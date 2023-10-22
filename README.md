@@ -6,3 +6,7 @@
 >node app.js
 > Teste
 > ```
+> Agradecimento aos mestres
+> Guilherme Lima
+> Paulo Silveira
+> 
