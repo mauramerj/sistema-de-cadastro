@@ -7,6 +7,6 @@
 > Teste
 > ```
 > Agradecimento aos mestres
-> Guilherme Lima
+> Guilherme Lima & 
 > Paulo Silveira
 > 
